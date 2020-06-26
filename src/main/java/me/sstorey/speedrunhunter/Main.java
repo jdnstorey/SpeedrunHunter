@@ -1,4 +1,4 @@
-package sstorey.SpeedrunHunterCompass;
+package me.sstorey.speedrunhunter;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
