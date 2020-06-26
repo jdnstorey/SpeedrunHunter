@@ -1,0 +1,20 @@
+name: SpeedrunHunterCompass
+main: sstorey.SpeedrunHunterCompass.Main
+version: 3.1
+author: sstorey
+
+commands:
+  srh:
+    usage: /srh
+  hunter:
+    usage: /hunter <name>
+  speedrunner:
+    usage: /speedrunner <name>
+  follow:
+    usage: /follow <name>
+  compass:
+    usage: /compass
+    
+updatelog:
+  3.0 -> added 1.14.4 support
+  3.1 -> added main help menu
