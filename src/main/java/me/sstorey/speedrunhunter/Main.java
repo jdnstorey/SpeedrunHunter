@@ -22,7 +22,7 @@ public class Main extends JavaPlugin {
 		getServer().getConsoleSender().sendMessage(ChatColor.RED + "SpeedrunnerHunterCompass -> Plugin Disabled!");
 	}
 	
-	public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args) {
+	public boolean  onCommand(CommandSender sender, Command cmd, String label, String[] args) {
 		
 		Player player = (Player) sender;
 		
