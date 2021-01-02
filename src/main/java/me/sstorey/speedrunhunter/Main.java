@@ -32,10 +32,7 @@ public class Main extends JavaPlugin {
 		item.setItemMeta(im);
 		
 		ItemStack beef = new ItemStack(Material.COOKED_BEEF, 2);
-		
-		
 	
-		
 		//initial instructions
 		if(label.equalsIgnoreCase("srh")) {
 			player.sendMessage(ChatColor.GOLD + "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-");
